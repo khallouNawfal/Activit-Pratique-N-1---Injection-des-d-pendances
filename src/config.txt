@@ -1,0 +1,2 @@
+net.nawfal.dao.DaoImpl
+net.nawfal.matier.MetierImpl
